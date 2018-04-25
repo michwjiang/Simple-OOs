@@ -1,1 +1,3 @@
 # Simple-OOs
+
+ALL RIGHTS RESERVED
